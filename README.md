@@ -3,4 +3,4 @@ Snappy A Cloud Guru tutorial
 
 ## using it
 
-` pipenv -run shotty/shotty.py `
+` pipenv run "python shotty/shotty.py <command> --project=<project> `
